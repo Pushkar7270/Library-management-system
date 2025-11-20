@@ -14,7 +14,7 @@
 * *View Books*: See a complete list of all books in the system.
 * *Remove Book*: Delete a book from the inventory permanently.
 
-# Student Features
+**Student Features**
 * *Borrow Book*: Borrow a book if it is currently available.
 * *Return Book*: Return a borrowed book to update its status to "available".
 * *View All Books*: See the entire collection.
